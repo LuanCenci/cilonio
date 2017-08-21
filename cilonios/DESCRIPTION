@@ -1,0 +1,10 @@
+Package: cilonios
+Title: Text mining and loading the official diary of city of the Videira
+Version: 0.0.1
+Authors@R: person("Luan", "Cenci", email = "lcencicolo@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
