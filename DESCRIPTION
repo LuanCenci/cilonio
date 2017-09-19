@@ -1,0 +1,11 @@
+Package: cilonio
+Title: text mining adapt for portuguese
+Version: 0.1.1
+Authors@R: person("Luan", "Cenci", email = "lcencicolo@gmail.com", role = c("aut", "cre"))
+Description: This package is use for date colect and extract data for portuguese.
+Depends: R (>= 3.4.1)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: stringr
